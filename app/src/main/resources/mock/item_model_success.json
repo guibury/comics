@@ -1,0 +1,30 @@
+{
+  "data": {
+    "results": [
+      {
+        "title": "Spider-Man 01",
+        "description": "First friendly neighborhood comic",
+        "thumbnail": {
+          "path": "http://images/spider_man",
+          "extension": "jpg"
+        }
+      },
+      {
+        "title": "Hulk 01",
+        "description": "First smash comic",
+        "thumbnail": {
+          "path": "http://images/hulk",
+          "extension": "jpg"
+        }
+      },
+      {
+        "title": "Captain America 01",
+        "description": "First Avenger comic",
+        "thumbnail": {
+          "path": "http://images/captain_america",
+          "extension": "jpg"
+        }
+      }
+    ]
+  }
+}

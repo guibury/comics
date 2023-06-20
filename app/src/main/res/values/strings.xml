@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comics</string>
+    <string name="toolbar_accessibility">Marvel logo</string>
+    <string name="cover_accessibility">Cover image</string>
+</resources>
